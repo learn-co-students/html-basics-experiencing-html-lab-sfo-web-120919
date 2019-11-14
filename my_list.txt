@@ -1,0 +1,6 @@
+cat
+dog
+frog
+cheetah
+lion
+tiger
